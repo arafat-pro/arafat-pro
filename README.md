@@ -20,6 +20,22 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arafat_pro)](https://github.com/arafat-pro/github-readme-stats)
 
 <br/>
+
+
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+
+</p>
+
+<br/>
+
 <a href="https://www.linkedin.com/in/arafat-pro/"><img src="https://img.icons8.com/color/96/000000/linkedin.png"/></a> <a href="https://stackoverflow.com/cv/arafat.pro"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png"/></a> <a href="mailto:yasirarafat.net@gmail.com"><img src="https://img.icons8.com/fluency/96/000000/send-mass-email.png"/></a>
 
 ---
