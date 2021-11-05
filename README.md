@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-## Welcome to My Git Profile Landing Page!
+## Welcome to Yasir Arafat's Git Profile Landing Page!
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=arafat-pro&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
@@ -13,11 +13,11 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arafat-pro&theme=vue&&show_icons=true)](https://github.com/arafat-pro)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-pro&langs_count=10&theme=vue)](https://github.com/arafat-pro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-pro&langs_count=10&theme=vue)](https://github.com/arafat-pro/)
 
 <br/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arafat_pro)](https://github.com/arafat-pro/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arafat_pro)](https://github.com/arafat-pro/)
 
 <br/>
 
