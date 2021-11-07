@@ -17,7 +17,7 @@
 
 <br/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arafat_pro)](https://github.com/arafat-pro/)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arafat_pro)](https://wakatime.com/@arafat_pro)
 
 <br/>
 
