@@ -1,4 +1,4 @@
-[![Header](https://scontent.fcgp6-1.fna.fbcdn.net/v/t39.30808-6/p720x720/251564915_3151648235118676_1205668045975068937_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_ohc=KZge8k08jLAAX8pAbOO&_nc_ht=scontent.fcgp6-1.fna&oh=712c000ab799b6daa66812ea656a71bf&oe=6188DBE3 "Welcome to Yasir Arafat's Git Profile Landing Page!")](https://www.arafat.pro/)
+[![Header](https://user-images.githubusercontent.com/3014435/141130174-6c17675c-5487-4219-b533-145b8949d3e4.jpg "Welcome to Yasir Arafat's Git Profile Landing Page!")](https://www.arafat.pro/)
 <br/>
 
 ### Hi there 👋
