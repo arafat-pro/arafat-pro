@@ -35,7 +35,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/arafat-pro/"><img src="https://img.icons8.com/color/96/000000/linkedin.png"/></a> <a href="https://stackoverflow.com/cv/arafat.pro"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png"/></a> <a href="mailto:yasirarafat.net@gmail.com"><img src="https://img.icons8.com/fluency/96/000000/send-mass-email.png"/></a>
 </p>
----
+<p align="center">
+<a href="https://stackoverflow.com/users/1407658/yasir-arafat"><img src="https://stackoverflow.com/users/flair/1407658.png?theme=dark" width="208" height="58" alt="profile for Yasir Arafat at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Yasir Arafat at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+</p>
 <p align="center"> © 2021 Yasir Arafat, all rights reserved. Made with ❤️ for a better web. </p>
 <p align="center">
 https://www.arafat.pro/
